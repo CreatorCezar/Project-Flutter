@@ -1,31 +1,60 @@
-# Truck Driver Mobile App - Flutter Project
+# Flutter Mobile Projects
 
-This project is a mobile application developed using Flutter for truck drivers. The app provides tools for route tracking, photo documentation, and educational content focused on road safety and professional driver training.
+This repository contains mobile applications developed using Flutter. The projects demonstrate cross-platform development, clean code practices, and mobile solutions built for real-world use cases.
 
-## App Store
+---
+
+# Truck Driver Mobile App
+
+Mobile application developed for truck drivers, providing tools for route tracking, photographic documentation, and access to educational content focused on safety and professional development.
+
+## Download
 
 https://apps.apple.com/br/app/axon-motoristas/id6479607987
 
-## Technologies Used
+## Technologies
 
 - Flutter
 - Dart
-- Mobile UI Development
 - Geolocation Services
-- Media Capture
 - REST API Integration
+- Media Capture
 
 ## Features
 
 - Route tracking and trip monitoring
-- Photo capture and documentation during transport operations
-- Educational modules for truck drivers
+- Photo documentation during transportation operations
+- Educational modules for drivers
 - Cross-platform mobile development
-- Performance-optimized mobile interface
+- Optimized mobile performance
 
-## Project Description
+---
 
-This application was developed to support truck drivers during their routes by providing tools for location tracking, photographic documentation, and access to educational content focused on safety and professional development.
+# Pet Schedule App
+
+Mobile application developed for pet owners to manage and organize important pet care routines such as vaccinations, grooming, and veterinary appointments.
+
+## Download
+
+https://play.google.com/store/apps/details?id=com.agendadopet.con
+
+## Technologies
+
+- Flutter
+- Dart
+- Mobile UI Development
+- Local Data Management
+- Notification System
+
+## Features
+
+- Pet care schedule management
+- Reminders for vaccines and appointments
+- User-friendly interface
+- Cross-platform mobile application
+- Organized pet health information
+
+---
 
 ## Author
 
